@@ -1,0 +1,8 @@
+---
+# defaults file for mysql
+# Define nome do banco de dados
+wp_mysql_db: wordpress_hml
+# Define o nome do usuario do banco
+wp_mysql_user: fabio
+# Define a senha do usuario criado
+wp_mysql_password: 123qwe.
